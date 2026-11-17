@@ -33,7 +33,7 @@
   commit: 037a1b97086ef8425bdd9379e38f6aada4f327e7
 - name: iverilog
   repo: https://github.com/steveicarus/iverilog.git
-  commit: 1256ea225e0efd1a713ebe5e4deda8b2cef3fd22
+  commit: c4e293fdfdb12b2e45a335a2f85c689e49cd798a
 - name: kactus2
   repo: https://github.com/kactus2/kactus2dev.git
   commit: v3.14.2
@@ -54,7 +54,7 @@
   commit: 1.5.329
 - name: nextpnr
   repo: https://github.com/YosysHQ/nextpnr.git
-  commit: 5e2718b6364e189e414c35b8eef3db4d5e3c0773
+  commit: f821aa265a79cbfe7b9d737cbf24d4be2f31cbf8
 - name: ngspice
   repo: https://github.com/danchitnis/ngspice-sf-mirror.git
   commit: ngspice-47
@@ -76,14 +76,14 @@
   commit: e4cd01508b0ba40a4fbc2b4278e3ef3c43184095
 - name: openroad
   repo: https://github.com/The-OpenROAD-Project/OpenROAD.git
-  commit: c9c76db67dc4727bcdd4e63f9e25855c210d7276
+  commit: ed421e35f2a158afdc5fee32dba251ee3f30d0fb
 - name: openroad-librelane
   repo: https://github.com/The-OpenROAD-Project/OpenROAD.git
   commit: c4d317e4fa2398b9880920a1411c20258a2175a9
   hold: OpenROAD revision that the pinned LibreLane release is tested against, bump together with librelane
 - name: openvaf
   repo: https://github.com/arpadbuermen/OpenVAF.git
-  commit: 96b3322cedd9c8b56de4ca009cdeccda6f1ae571
+  commit: aec936732691cd9e5e2cbe371547f6ab718b933f
   branch: mb-experimental
 - name: osic-multitool
   repo: https://github.com/iic-jku/osic-multitool.git
@@ -93,7 +93,7 @@
   commit: 17fba2638142baa4dc6e2a0b18cb1cd542017e16
 - name: palace
   repo: https://github.com/awslabs/palace.git
-  commit: 295645f7590769a5f3a180dce14c21717c3f434a
+  commit: 5dd5b8e4559a0a26c8b69b6405d3e4c5abaea65c
 - name: prjtrellis
   repo: https://github.com/YosysHQ/prjtrellis.git
   commit: 2d12005ab9703ff60603d7ae91dca254939e671f
@@ -126,7 +126,7 @@
   commit: 9c61d29846d8521d9487a57739330f9682d5b542
 - name: slang
   repo: https://github.com/MikePopoloski/slang.git
-  commit: ea974328780c58162b568c142ff890a29930e34d
+  commit: 5216a3d37b06786fca1b646c85f41f3d46fde7cf
 - name: slang-yosys-plugin
   repo: https://github.com/povik/yosys-slang.git
   commit: ea8879f3825e4844435632e8748ebd750098938c
@@ -139,7 +139,7 @@
   commit: 118480991eb16c6a6f40b94fdc35acc9da2ceacd
 - name: surelog
   repo: https://github.com/chipsalliance/Surelog.git
-  commit: v1.87
+  commit: v1.88
 - name: surfer
   repo: https://gitlab.com/surfer-project/surfer.git
   commit: v0.7.0
@@ -154,19 +154,19 @@
   commit: 0.13.8
 - name: vacask
   repo: https://codeberg.org/arpadbuermen/VACASK.git
-  commit: b2c15511a1a7c6246cca6bcfd8d38bfb3c750d7a
+  commit: 2a432c7ce8f1ace6a709c6090dcd3efa7e9a9491
 - name: verilator
   repo: https://github.com/verilator/verilator.git
   commit: v5.054
 - name: verible
   repo: https://github.com/chipsalliance/verible.git
-  commit: v0.0-4298-g085eef05
+  commit: v0.0-4302-gc6b29d62
 - name: xcircuit
   repo: https://github.com/RTimothyEdwards/XCircuit.git
   commit: eab56ebad351650b4050fcde85cda9919844ed58
 - name: xschem
   repo: https://github.com/StefanSchippers/xschem.git
-  commit: beb7bcba4519ea92e1268f3feef36f043d51f50f
+  commit: 5ed6228bcfbb47b50530ef4a3c90709c63c7657d
 - name: xyce
   repo: https://github.com/Xyce/Xyce.git
   commit: Release-7.10.0
